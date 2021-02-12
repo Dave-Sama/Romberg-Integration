@@ -3,6 +3,8 @@ This method is good for finding an approximate value for an integral solution
 The method can be based on the trapezoidal method or the Simpson method
 although i will implement Romberg method based on the trapezoidal method. 
 
+i made it 
+
 # How it works? 
 
 based on the Trapezoidal method: <br/>
@@ -27,6 +29,7 @@ pip install Texttable
 
 
 ## Contributing
+I built the algorithm in the form of object-oriented programming, in order to simplify the idea behind it. <br/>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
