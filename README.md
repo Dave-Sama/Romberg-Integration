@@ -5,10 +5,10 @@ although i will implement Romberg method based on the trapezoidal method.
 
 # How it works? 
 
-based on the Trapezoidal method:
+based on the Trapezoidal method: <br/>
 ![trapezoidal method](https://i.ibb.co/wWd7xs0/trapez.jpg)
 
-next is:
+next is:<br/>
 ![trapezoidal method](https://i.ibb.co/7C2Qp3Z/romberg.jpg)
 
 after N iterations we will have the approximate value for an integral solution.
